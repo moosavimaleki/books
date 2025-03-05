@@ -1,0 +1,6 @@
+To comment or ask technical questions about this book, send email to [bookquestions@oreilly.com](mailto:bookquestions@oreilly.com). For more information about our books, courses, conferences, and news, see our website at [http://www.oreilly.com](http://www.oreilly.com). Find us on Facebook: [http://facebook.com/oreilly](http://facebook.com/oreilly) Follow us on Twitter: [http://twitter.com/oreillymedia](http://twitter.com/oreillymedia) Watch us on YouTube: [http://www.youtube.com/oreillymedia](http://www.youtube.com/oreillymedia) # Acknowledgments This book is an amalgamation and systematization of a large number of other people’s ideas and
+knowledge, combining experience from both academic research and industrial practice. In computing we
+tend to be attracted to things that are new and shiny, but I think we have a huge amount to learn
+from things that have been done before. This book has over 800 references to articles, blog posts,
+talks, documentation, and more, and they have been an invaluable learning resource for me. I am very
+grateful to the authors of this material for sharing their knowledge.

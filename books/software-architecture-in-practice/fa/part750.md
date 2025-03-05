@@ -1,0 +1,1 @@
+Figure 22.1 A combined view

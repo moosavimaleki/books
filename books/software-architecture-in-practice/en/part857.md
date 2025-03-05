@@ -1,0 +1,1 @@
+9. Search for certification programs for architects. For each one, try to characterize how much it deals (respectively) with duties, skills, and knowledge.

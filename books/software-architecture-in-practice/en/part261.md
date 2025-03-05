@@ -1,0 +1,1 @@
+7. Sketch a design for a dynamic discovery service. Which types of distances does this service help to mitigate?

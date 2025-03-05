@@ -1,0 +1,1 @@
+8. Look up recovery point objective (RPO) and recovery time objective (RTO), and explain how these can be used to set a checkpoint interval when using the rollback tactic.

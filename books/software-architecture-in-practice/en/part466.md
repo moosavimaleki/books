@@ -1,0 +1,1 @@
+11. What is the relationship between each pair of QAs in the following list? *  Performance and security *  Security and buildability *  Energy efficiency and time to market

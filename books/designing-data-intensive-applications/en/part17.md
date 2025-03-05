@@ -1,0 +1,6 @@
+# O’Reilly Safari ###### Note [Safari](http://oreilly.com/safari) (formerly Safari Books Online) is a membership-based training and reference platform for enterprise, government, educators, and individuals. Members have access to thousands of books, training videos, Learning Paths, interactive tutorials, and curated playlists from over 250 publishers, including O’Reilly Media, Harvard Business Review, Prentice Hall Professional, Addison-Wesley Professional, Microsoft Press, Sams, Que, Peachpit Press, Adobe, Focal Press, Cisco Press, John Wiley & Sons, Syngress, Morgan Kaufmann, IBM Redbooks, Packt, Adobe Press, FT Press, Apress, Manning, New Riders, McGraw-Hill, Jones & Bartlett, and Course Technology, among others. For more information, please visit [http://oreilly.com/safari](http://oreilly.com/safari). # How to Contact Us Please address comments and questions concerning this book to the publisher: * O’Reilly Media, Inc.
+* 1005 Gravenstein Highway North
+* Sebastopol, CA 95472
+* 800-998-9938 (in the United States or Canada)
+* 707-829-0515 (international or local)
+* 707-829-0104 (fax) We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at [http://bit.ly/designing-data-intensive-apps](http://bit.ly/designing-data-intensive-apps).

@@ -1,0 +1,5878 @@
+{
+  "title": "Software Architecture in Practice, 4th Edition",
+  "creator": "Len Bass",
+  "language": "en",
+  "original_file": "/home/basalam3785/Projects/Revenue/books/books/software-architecture-in-practice/software-architecture-in-practice.epub",
+  "creation_date": "2025-03-04 12:30:04",
+  "direction": "ltr",
+  "chapters": [
+    {
+      "md_file": "part1.md",
+      "title": "Chapter 1",
+      "order": 1,
+      "html_file": "cover.xhtml"
+    },
+    {
+      "md_file": "part2.md",
+      "title": "About This eBook",
+      "order": 2,
+      "html_file": "pref00.xhtml"
+    },
+    {
+      "md_file": "part3.md",
+      "title": "Software Architecture in Practice",
+      "order": 3,
+      "html_file": "halftitle.xhtml"
+    },
+    {
+      "md_file": "part4.md",
+      "title": "Chapter 4",
+      "order": 4,
+      "html_file": "pref01.xhtml"
+    },
+    {
+      "md_file": "part5.md",
+      "title": "Software Architecture in Practice",
+      "order": 5,
+      "html_file": "title.xhtml"
+    },
+    {
+      "md_file": "part6.md",
+      "title": "Chapter 6 - قسمت 1/3",
+      "order": 6,
+      "html_file": "copyright.xhtml"
+    },
+    {
+      "md_file": "part7.md",
+      "title": "Chapter 6 - قسمت 2/3",
+      "order": 7,
+      "html_file": "copyright.xhtml"
+    },
+    {
+      "md_file": "part8.md",
+      "title": "Chapter 6 - قسمت 3/3",
+      "order": 8,
+      "html_file": "copyright.xhtml"
+    },
+    {
+      "md_file": "part9.md",
+      "title": "Contents - قسمت 1/7",
+      "order": 9,
+      "html_file": "toc.xhtml"
+    },
+    {
+      "md_file": "part10.md",
+      "title": "Contents - قسمت 2/7",
+      "order": 10,
+      "html_file": "toc.xhtml"
+    },
+    {
+      "md_file": "part11.md",
+      "title": "Contents - قسمت 3/7",
+      "order": 11,
+      "html_file": "toc.xhtml"
+    },
+    {
+      "md_file": "part12.md",
+      "title": "Contents - قسمت 4/7",
+      "order": 12,
+      "html_file": "toc.xhtml"
+    },
+    {
+      "md_file": "part13.md",
+      "title": "Contents - قسمت 5/7",
+      "order": 13,
+      "html_file": "toc.xhtml"
+    },
+    {
+      "md_file": "part14.md",
+      "title": "Contents - قسمت 6/7",
+      "order": 14,
+      "html_file": "toc.xhtml"
+    },
+    {
+      "md_file": "part15.md",
+      "title": "Contents - قسمت 7/7",
+      "order": 15,
+      "html_file": "toc.xhtml"
+    },
+    {
+      "md_file": "part16.md",
+      "title": "Preface - قسمت 1/6",
+      "order": 16,
+      "html_file": "pref02.xhtml"
+    },
+    {
+      "md_file": "part17.md",
+      "title": "Preface - قسمت 2/6",
+      "order": 17,
+      "html_file": "pref02.xhtml"
+    },
+    {
+      "md_file": "part18.md",
+      "title": "Preface - قسمت 3/6",
+      "order": 18,
+      "html_file": "pref02.xhtml"
+    },
+    {
+      "md_file": "part19.md",
+      "title": "Preface - قسمت 4/6",
+      "order": 19,
+      "html_file": "pref02.xhtml"
+    },
+    {
+      "md_file": "part20.md",
+      "title": "Preface - قسمت 5/6",
+      "order": 20,
+      "html_file": "pref02.xhtml"
+    },
+    {
+      "md_file": "part21.md",
+      "title": "Preface - قسمت 6/6",
+      "order": 21,
+      "html_file": "pref02.xhtml"
+    },
+    {
+      "md_file": "part22.md",
+      "title": "Acknowledgments - قسمت 1/2",
+      "order": 22,
+      "html_file": "pref03.xhtml"
+    },
+    {
+      "md_file": "part23.md",
+      "title": "Acknowledgments - قسمت 2/2",
+      "order": 23,
+      "html_file": "pref03.xhtml"
+    },
+    {
+      "md_file": "part24.md",
+      "title": "Part I: Introduction",
+      "order": 24,
+      "html_file": "part01.xhtml"
+    },
+    {
+      "md_file": "part25.md",
+      "title": "System and Enterprise Architectures - قسمت 1/46",
+      "order": 25,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part26.md",
+      "title": "System and Enterprise Architectures - قسمت 2/46",
+      "order": 26,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part27.md",
+      "title": "System and Enterprise Architectures - قسمت 3/46",
+      "order": 27,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part28.md",
+      "title": "System and Enterprise Architectures - قسمت 4/46",
+      "order": 28,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part29.md",
+      "title": "System and Enterprise Architectures - قسمت 5/46",
+      "order": 29,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part30.md",
+      "title": "System and Enterprise Architectures - قسمت 6/46",
+      "order": 30,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part31.md",
+      "title": "System and Enterprise Architectures - قسمت 7/46",
+      "order": 31,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part32.md",
+      "title": "System and Enterprise Architectures - قسمت 8/46",
+      "order": 32,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part33.md",
+      "title": "System and Enterprise Architectures - قسمت 9/46",
+      "order": 33,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part34.md",
+      "title": "System and Enterprise Architectures - قسمت 10/46",
+      "order": 34,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part35.md",
+      "title": "System and Enterprise Architectures - قسمت 11/46",
+      "order": 35,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part36.md",
+      "title": "System and Enterprise Architectures - قسمت 12/46",
+      "order": 36,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part37.md",
+      "title": "System and Enterprise Architectures - قسمت 13/46",
+      "order": 37,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part38.md",
+      "title": "System and Enterprise Architectures - قسمت 14/46",
+      "order": 38,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part39.md",
+      "title": "System and Enterprise Architectures - قسمت 15/46",
+      "order": 39,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part40.md",
+      "title": "System and Enterprise Architectures - قسمت 16/46",
+      "order": 40,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part41.md",
+      "title": "System and Enterprise Architectures - قسمت 17/46",
+      "order": 41,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part42.md",
+      "title": "System and Enterprise Architectures - قسمت 18/46",
+      "order": 42,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part43.md",
+      "title": "System and Enterprise Architectures - قسمت 19/46",
+      "order": 43,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part44.md",
+      "title": "System and Enterprise Architectures - قسمت 20/46",
+      "order": 44,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part45.md",
+      "title": "System and Enterprise Architectures - قسمت 21/46",
+      "order": 45,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part46.md",
+      "title": "System and Enterprise Architectures - قسمت 22/46",
+      "order": 46,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part47.md",
+      "title": "System and Enterprise Architectures - قسمت 23/46",
+      "order": 47,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part48.md",
+      "title": "System and Enterprise Architectures - قسمت 24/46",
+      "order": 48,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part49.md",
+      "title": "System and Enterprise Architectures - قسمت 25/46",
+      "order": 49,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part50.md",
+      "title": "System and Enterprise Architectures - قسمت 26/46",
+      "order": 50,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part51.md",
+      "title": "System and Enterprise Architectures - قسمت 27/46",
+      "order": 51,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part52.md",
+      "title": "System and Enterprise Architectures - قسمت 28/46",
+      "order": 52,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part53.md",
+      "title": "System and Enterprise Architectures - قسمت 29/46",
+      "order": 53,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part54.md",
+      "title": "System and Enterprise Architectures - قسمت 30/46",
+      "order": 54,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part55.md",
+      "title": "System and Enterprise Architectures - قسمت 31/46",
+      "order": 55,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part56.md",
+      "title": "System and Enterprise Architectures - قسمت 32/46",
+      "order": 56,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part57.md",
+      "title": "System and Enterprise Architectures - قسمت 33/46",
+      "order": 57,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part58.md",
+      "title": "System and Enterprise Architectures - قسمت 34/46",
+      "order": 58,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part59.md",
+      "title": "System and Enterprise Architectures - قسمت 35/46",
+      "order": 59,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part60.md",
+      "title": "System and Enterprise Architectures - قسمت 36/46",
+      "order": 60,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part61.md",
+      "title": "System and Enterprise Architectures - قسمت 37/46",
+      "order": 61,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part62.md",
+      "title": "System and Enterprise Architectures - قسمت 38/46",
+      "order": 62,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part63.md",
+      "title": "System and Enterprise Architectures - قسمت 39/46",
+      "order": 63,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part64.md",
+      "title": "System and Enterprise Architectures - قسمت 40/46",
+      "order": 64,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part65.md",
+      "title": "System and Enterprise Architectures - قسمت 41/46",
+      "order": 65,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part66.md",
+      "title": "System and Enterprise Architectures - قسمت 42/46",
+      "order": 66,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part67.md",
+      "title": "System and Enterprise Architectures - قسمت 43/46",
+      "order": 67,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part68.md",
+      "title": "System and Enterprise Architectures - قسمت 44/46",
+      "order": 68,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part69.md",
+      "title": "System and Enterprise Architectures - قسمت 45/46",
+      "order": 69,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part70.md",
+      "title": "System and Enterprise Architectures - قسمت 46/46",
+      "order": 70,
+      "html_file": "ch01.xhtml"
+    },
+    {
+      "md_file": "part71.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 1/32",
+      "order": 71,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part72.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 2/32",
+      "order": 72,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part73.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 3/32",
+      "order": 73,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part74.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 4/32",
+      "order": 74,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part75.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 5/32",
+      "order": 75,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part76.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 6/32",
+      "order": 76,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part77.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 7/32",
+      "order": 77,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part78.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 8/32",
+      "order": 78,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part79.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 9/32",
+      "order": 79,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part80.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 10/32",
+      "order": 80,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part81.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 11/32",
+      "order": 81,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part82.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 12/32",
+      "order": 82,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part83.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 13/32",
+      "order": 83,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part84.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 14/32",
+      "order": 84,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part85.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 15/32",
+      "order": 85,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part86.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 16/32",
+      "order": 86,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part87.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 17/32",
+      "order": 87,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part88.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 18/32",
+      "order": 88,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part89.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 19/32",
+      "order": 89,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part90.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 20/32",
+      "order": 90,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part91.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 21/32",
+      "order": 91,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part92.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 22/32",
+      "order": 92,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part93.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 23/32",
+      "order": 93,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part94.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 24/32",
+      "order": 94,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part95.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 25/32",
+      "order": 95,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part96.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 26/32",
+      "order": 96,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part97.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 27/32",
+      "order": 97,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part98.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 28/32",
+      "order": 98,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part99.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 29/32",
+      "order": 99,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part100.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 30/32",
+      "order": 100,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part101.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 31/32",
+      "order": 101,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part102.md",
+      "title": "“What Happens When I Push This Button?”: Architecture as a Vehicle for Stakeholder Communication - قسمت 32/32",
+      "order": 102,
+      "html_file": "ch02.xhtml"
+    },
+    {
+      "md_file": "part103.md",
+      "title": "Part II: Quality Attributes",
+      "order": 103,
+      "html_file": "part02.xhtml"
+    },
+    {
+      "md_file": "part104.md",
+      "title": "Functional Requirements - قسمت 1/26",
+      "order": 104,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part105.md",
+      "title": "Functional Requirements - قسمت 2/26",
+      "order": 105,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part106.md",
+      "title": "Functional Requirements - قسمت 3/26",
+      "order": 106,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part107.md",
+      "title": "Functional Requirements - قسمت 4/26",
+      "order": 107,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part108.md",
+      "title": "Functional Requirements - قسمت 5/26",
+      "order": 108,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part109.md",
+      "title": "Functional Requirements - قسمت 6/26",
+      "order": 109,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part110.md",
+      "title": "Functional Requirements - قسمت 7/26",
+      "order": 110,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part111.md",
+      "title": "Functional Requirements - قسمت 8/26",
+      "order": 111,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part112.md",
+      "title": "Functional Requirements - قسمت 9/26",
+      "order": 112,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part113.md",
+      "title": "Functional Requirements - قسمت 10/26",
+      "order": 113,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part114.md",
+      "title": "Functional Requirements - قسمت 11/26",
+      "order": 114,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part115.md",
+      "title": "Functional Requirements - قسمت 12/26",
+      "order": 115,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part116.md",
+      "title": "Functional Requirements - قسمت 13/26",
+      "order": 116,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part117.md",
+      "title": "Functional Requirements - قسمت 14/26",
+      "order": 117,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part118.md",
+      "title": "Functional Requirements - قسمت 15/26",
+      "order": 118,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part119.md",
+      "title": "Functional Requirements - قسمت 16/26",
+      "order": 119,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part120.md",
+      "title": "Functional Requirements - قسمت 17/26",
+      "order": 120,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part121.md",
+      "title": "Functional Requirements - قسمت 18/26",
+      "order": 121,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part122.md",
+      "title": "Functional Requirements - قسمت 19/26",
+      "order": 122,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part123.md",
+      "title": "Functional Requirements - قسمت 20/26",
+      "order": 123,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part124.md",
+      "title": "Functional Requirements - قسمت 21/26",
+      "order": 124,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part125.md",
+      "title": "Functional Requirements - قسمت 22/26",
+      "order": 125,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part126.md",
+      "title": "Functional Requirements - قسمت 23/26",
+      "order": 126,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part127.md",
+      "title": "Functional Requirements - قسمت 24/26",
+      "order": 127,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part128.md",
+      "title": "Functional Requirements - قسمت 25/26",
+      "order": 128,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part129.md",
+      "title": "Functional Requirements - قسمت 26/26",
+      "order": 129,
+      "html_file": "ch03.xhtml"
+    },
+    {
+      "md_file": "part130.md",
+      "title": "4 - قسمت 1/46",
+      "order": 130,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part131.md",
+      "title": "4 - قسمت 2/46",
+      "order": 131,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part132.md",
+      "title": "4 - قسمت 3/46",
+      "order": 132,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part133.md",
+      "title": "4 - قسمت 4/46",
+      "order": 133,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part134.md",
+      "title": "4 - قسمت 5/46",
+      "order": 134,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part135.md",
+      "title": "4 - قسمت 6/46",
+      "order": 135,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part136.md",
+      "title": "4 - قسمت 7/46",
+      "order": 136,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part137.md",
+      "title": "4 - قسمت 8/46",
+      "order": 137,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part138.md",
+      "title": "4 - قسمت 9/46",
+      "order": 138,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part139.md",
+      "title": "4 - قسمت 10/46",
+      "order": 139,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part140.md",
+      "title": "4 - قسمت 11/46",
+      "order": 140,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part141.md",
+      "title": "4 - قسمت 12/46",
+      "order": 141,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part142.md",
+      "title": "4 - قسمت 13/46",
+      "order": 142,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part143.md",
+      "title": "4 - قسمت 14/46",
+      "order": 143,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part144.md",
+      "title": "4 - قسمت 15/46",
+      "order": 144,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part145.md",
+      "title": "4 - قسمت 16/46",
+      "order": 145,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part146.md",
+      "title": "4 - قسمت 17/46",
+      "order": 146,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part147.md",
+      "title": "4 - قسمت 18/46",
+      "order": 147,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part148.md",
+      "title": "4 - قسمت 19/46",
+      "order": 148,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part149.md",
+      "title": "4 - قسمت 20/46",
+      "order": 149,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part150.md",
+      "title": "4 - قسمت 21/46",
+      "order": 150,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part151.md",
+      "title": "4 - قسمت 22/46",
+      "order": 151,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part152.md",
+      "title": "4 - قسمت 23/46",
+      "order": 152,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part153.md",
+      "title": "4 - قسمت 24/46",
+      "order": 153,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part154.md",
+      "title": "4 - قسمت 25/46",
+      "order": 154,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part155.md",
+      "title": "4 - قسمت 26/46",
+      "order": 155,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part156.md",
+      "title": "4 - قسمت 27/46",
+      "order": 156,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part157.md",
+      "title": "4 - قسمت 28/46",
+      "order": 157,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part158.md",
+      "title": "4 - قسمت 29/46",
+      "order": 158,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part159.md",
+      "title": "4 - قسمت 30/46",
+      "order": 159,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part160.md",
+      "title": "4 - قسمت 31/46",
+      "order": 160,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part161.md",
+      "title": "4 - قسمت 32/46",
+      "order": 161,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part162.md",
+      "title": "4 - قسمت 33/46",
+      "order": 162,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part163.md",
+      "title": "4 - قسمت 34/46",
+      "order": 163,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part164.md",
+      "title": "4 - قسمت 35/46",
+      "order": 164,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part165.md",
+      "title": "4 - قسمت 36/46",
+      "order": 165,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part166.md",
+      "title": "4 - قسمت 37/46",
+      "order": 166,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part167.md",
+      "title": "4 - قسمت 38/46",
+      "order": 167,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part168.md",
+      "title": "4 - قسمت 39/46",
+      "order": 168,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part169.md",
+      "title": "4 - قسمت 40/46",
+      "order": 169,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part170.md",
+      "title": "4 - قسمت 41/46",
+      "order": 170,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part171.md",
+      "title": "4 - قسمت 42/46",
+      "order": 171,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part172.md",
+      "title": "4 - قسمت 43/46",
+      "order": 172,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part173.md",
+      "title": "4 - قسمت 44/46",
+      "order": 173,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part174.md",
+      "title": "4 - قسمت 45/46",
+      "order": 174,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part175.md",
+      "title": "4 - قسمت 46/46",
+      "order": 175,
+      "html_file": "ch04.xhtml"
+    },
+    {
+      "md_file": "part176.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 1/37",
+      "order": 176,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part177.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 2/37",
+      "order": 177,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part178.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 3/37",
+      "order": 178,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part179.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 4/37",
+      "order": 179,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part180.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 5/37",
+      "order": 180,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part181.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 6/37",
+      "order": 181,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part182.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 7/37",
+      "order": 182,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part183.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 8/37",
+      "order": 183,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part184.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 9/37",
+      "order": 184,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part185.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 10/37",
+      "order": 185,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part186.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 11/37",
+      "order": 186,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part187.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 12/37",
+      "order": 187,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part188.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 13/37",
+      "order": 188,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part189.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 14/37",
+      "order": 189,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part190.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 15/37",
+      "order": 190,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part191.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 16/37",
+      "order": 191,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part192.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 17/37",
+      "order": 192,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part193.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 18/37",
+      "order": 193,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part194.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 19/37",
+      "order": 194,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part195.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 20/37",
+      "order": 195,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part196.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 21/37",
+      "order": 196,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part197.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 22/37",
+      "order": 197,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part198.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 23/37",
+      "order": 198,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part199.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 24/37",
+      "order": 199,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part200.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 25/37",
+      "order": 200,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part201.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 26/37",
+      "order": 201,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part202.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 27/37",
+      "order": 202,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part203.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 28/37",
+      "order": 203,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part204.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 29/37",
+      "order": 204,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part205.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 30/37",
+      "order": 205,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part206.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 31/37",
+      "order": 206,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part207.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 32/37",
+      "order": 207,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part208.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 33/37",
+      "order": 208,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part209.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 34/37",
+      "order": 209,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part210.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 35/37",
+      "order": 210,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part211.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 36/37",
+      "order": 211,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part212.md",
+      "title": "The Effect of Virtualization on the Different Environments - قسمت 37/37",
+      "order": 212,
+      "html_file": "ch05.xhtml"
+    },
+    {
+      "md_file": "part213.md",
+      "title": "6 - قسمت 1/19",
+      "order": 213,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part214.md",
+      "title": "6 - قسمت 2/19",
+      "order": 214,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part215.md",
+      "title": "6 - قسمت 3/19",
+      "order": 215,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part216.md",
+      "title": "6 - قسمت 4/19",
+      "order": 216,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part217.md",
+      "title": "6 - قسمت 5/19",
+      "order": 217,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part218.md",
+      "title": "6 - قسمت 6/19",
+      "order": 218,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part219.md",
+      "title": "6 - قسمت 7/19",
+      "order": 219,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part220.md",
+      "title": "6 - قسمت 8/19",
+      "order": 220,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part221.md",
+      "title": "6 - قسمت 9/19",
+      "order": 221,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part222.md",
+      "title": "6 - قسمت 10/19",
+      "order": 222,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part223.md",
+      "title": "6 - قسمت 11/19",
+      "order": 223,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part224.md",
+      "title": "6 - قسمت 12/19",
+      "order": 224,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part225.md",
+      "title": "6 - قسمت 13/19",
+      "order": 225,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part226.md",
+      "title": "6 - قسمت 14/19",
+      "order": 226,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part227.md",
+      "title": "6 - قسمت 15/19",
+      "order": 227,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part228.md",
+      "title": "6 - قسمت 16/19",
+      "order": 228,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part229.md",
+      "title": "6 - قسمت 17/19",
+      "order": 229,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part230.md",
+      "title": "6 - قسمت 18/19",
+      "order": 230,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part231.md",
+      "title": "6 - قسمت 19/19",
+      "order": 231,
+      "html_file": "ch06.xhtml"
+    },
+    {
+      "md_file": "part232.md",
+      "title": "7 - قسمت 1/30",
+      "order": 232,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part233.md",
+      "title": "7 - قسمت 2/30",
+      "order": 233,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part234.md",
+      "title": "7 - قسمت 3/30",
+      "order": 234,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part235.md",
+      "title": "7 - قسمت 4/30",
+      "order": 235,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part236.md",
+      "title": "7 - قسمت 5/30",
+      "order": 236,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part237.md",
+      "title": "7 - قسمت 6/30",
+      "order": 237,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part238.md",
+      "title": "7 - قسمت 7/30",
+      "order": 238,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part239.md",
+      "title": "7 - قسمت 8/30",
+      "order": 239,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part240.md",
+      "title": "7 - قسمت 9/30",
+      "order": 240,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part241.md",
+      "title": "7 - قسمت 10/30",
+      "order": 241,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part242.md",
+      "title": "7 - قسمت 11/30",
+      "order": 242,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part243.md",
+      "title": "7 - قسمت 12/30",
+      "order": 243,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part244.md",
+      "title": "7 - قسمت 13/30",
+      "order": 244,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part245.md",
+      "title": "7 - قسمت 14/30",
+      "order": 245,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part246.md",
+      "title": "7 - قسمت 15/30",
+      "order": 246,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part247.md",
+      "title": "7 - قسمت 16/30",
+      "order": 247,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part248.md",
+      "title": "7 - قسمت 17/30",
+      "order": 248,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part249.md",
+      "title": "7 - قسمت 18/30",
+      "order": 249,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part250.md",
+      "title": "7 - قسمت 19/30",
+      "order": 250,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part251.md",
+      "title": "7 - قسمت 20/30",
+      "order": 251,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part252.md",
+      "title": "7 - قسمت 21/30",
+      "order": 252,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part253.md",
+      "title": "7 - قسمت 22/30",
+      "order": 253,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part254.md",
+      "title": "7 - قسمت 23/30",
+      "order": 254,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part255.md",
+      "title": "7 - قسمت 24/30",
+      "order": 255,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part256.md",
+      "title": "7 - قسمت 25/30",
+      "order": 256,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part257.md",
+      "title": "7 - قسمت 26/30",
+      "order": 257,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part258.md",
+      "title": "7 - قسمت 27/30",
+      "order": 258,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part259.md",
+      "title": "7 - قسمت 28/30",
+      "order": 259,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part260.md",
+      "title": "7 - قسمت 29/30",
+      "order": 260,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part261.md",
+      "title": "7 - قسمت 30/30",
+      "order": 261,
+      "html_file": "ch07.xhtml"
+    },
+    {
+      "md_file": "part262.md",
+      "title": "8 - قسمت 1/32",
+      "order": 262,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part263.md",
+      "title": "8 - قسمت 2/32",
+      "order": 263,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part264.md",
+      "title": "8 - قسمت 3/32",
+      "order": 264,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part265.md",
+      "title": "8 - قسمت 4/32",
+      "order": 265,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part266.md",
+      "title": "8 - قسمت 5/32",
+      "order": 266,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part267.md",
+      "title": "8 - قسمت 6/32",
+      "order": 267,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part268.md",
+      "title": "8 - قسمت 7/32",
+      "order": 268,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part269.md",
+      "title": "8 - قسمت 8/32",
+      "order": 269,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part270.md",
+      "title": "8 - قسمت 9/32",
+      "order": 270,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part271.md",
+      "title": "8 - قسمت 10/32",
+      "order": 271,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part272.md",
+      "title": "8 - قسمت 11/32",
+      "order": 272,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part273.md",
+      "title": "8 - قسمت 12/32",
+      "order": 273,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part274.md",
+      "title": "8 - قسمت 13/32",
+      "order": 274,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part275.md",
+      "title": "8 - قسمت 14/32",
+      "order": 275,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part276.md",
+      "title": "8 - قسمت 15/32",
+      "order": 276,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part277.md",
+      "title": "8 - قسمت 16/32",
+      "order": 277,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part278.md",
+      "title": "8 - قسمت 17/32",
+      "order": 278,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part279.md",
+      "title": "8 - قسمت 18/32",
+      "order": 279,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part280.md",
+      "title": "8 - قسمت 19/32",
+      "order": 280,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part281.md",
+      "title": "8 - قسمت 20/32",
+      "order": 281,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part282.md",
+      "title": "8 - قسمت 21/32",
+      "order": 282,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part283.md",
+      "title": "8 - قسمت 22/32",
+      "order": 283,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part284.md",
+      "title": "8 - قسمت 23/32",
+      "order": 284,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part285.md",
+      "title": "8 - قسمت 24/32",
+      "order": 285,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part286.md",
+      "title": "8 - قسمت 25/32",
+      "order": 286,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part287.md",
+      "title": "8 - قسمت 26/32",
+      "order": 287,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part288.md",
+      "title": "8 - قسمت 27/32",
+      "order": 288,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part289.md",
+      "title": "8 - قسمت 28/32",
+      "order": 289,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part290.md",
+      "title": "8 - قسمت 29/32",
+      "order": 290,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part291.md",
+      "title": "8 - قسمت 30/32",
+      "order": 291,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part292.md",
+      "title": "8 - قسمت 31/32",
+      "order": 292,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part293.md",
+      "title": "8 - قسمت 32/32",
+      "order": 293,
+      "html_file": "ch08.xhtml"
+    },
+    {
+      "md_file": "part294.md",
+      "title": "Concurrency - قسمت 1/46",
+      "order": 294,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part295.md",
+      "title": "Concurrency - قسمت 2/46",
+      "order": 295,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part296.md",
+      "title": "Concurrency - قسمت 3/46",
+      "order": 296,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part297.md",
+      "title": "Concurrency - قسمت 4/46",
+      "order": 297,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part298.md",
+      "title": "Concurrency - قسمت 5/46",
+      "order": 298,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part299.md",
+      "title": "Concurrency - قسمت 6/46",
+      "order": 299,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part300.md",
+      "title": "Concurrency - قسمت 7/46",
+      "order": 300,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part301.md",
+      "title": "Concurrency - قسمت 8/46",
+      "order": 301,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part302.md",
+      "title": "Concurrency - قسمت 9/46",
+      "order": 302,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part303.md",
+      "title": "Concurrency - قسمت 10/46",
+      "order": 303,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part304.md",
+      "title": "Concurrency - قسمت 11/46",
+      "order": 304,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part305.md",
+      "title": "Concurrency - قسمت 12/46",
+      "order": 305,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part306.md",
+      "title": "Concurrency - قسمت 13/46",
+      "order": 306,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part307.md",
+      "title": "Concurrency - قسمت 14/46",
+      "order": 307,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part308.md",
+      "title": "Concurrency - قسمت 15/46",
+      "order": 308,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part309.md",
+      "title": "Concurrency - قسمت 16/46",
+      "order": 309,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part310.md",
+      "title": "Concurrency - قسمت 17/46",
+      "order": 310,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part311.md",
+      "title": "Concurrency - قسمت 18/46",
+      "order": 311,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part312.md",
+      "title": "Concurrency - قسمت 19/46",
+      "order": 312,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part313.md",
+      "title": "Concurrency - قسمت 20/46",
+      "order": 313,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part314.md",
+      "title": "Concurrency - قسمت 21/46",
+      "order": 314,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part315.md",
+      "title": "Concurrency - قسمت 22/46",
+      "order": 315,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part316.md",
+      "title": "Concurrency - قسمت 23/46",
+      "order": 316,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part317.md",
+      "title": "Concurrency - قسمت 24/46",
+      "order": 317,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part318.md",
+      "title": "Concurrency - قسمت 25/46",
+      "order": 318,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part319.md",
+      "title": "Concurrency - قسمت 26/46",
+      "order": 319,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part320.md",
+      "title": "Concurrency - قسمت 27/46",
+      "order": 320,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part321.md",
+      "title": "Concurrency - قسمت 28/46",
+      "order": 321,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part322.md",
+      "title": "Concurrency - قسمت 29/46",
+      "order": 322,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part323.md",
+      "title": "Concurrency - قسمت 30/46",
+      "order": 323,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part324.md",
+      "title": "Concurrency - قسمت 31/46",
+      "order": 324,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part325.md",
+      "title": "Concurrency - قسمت 32/46",
+      "order": 325,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part326.md",
+      "title": "Concurrency - قسمت 33/46",
+      "order": 326,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part327.md",
+      "title": "Concurrency - قسمت 34/46",
+      "order": 327,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part328.md",
+      "title": "Concurrency - قسمت 35/46",
+      "order": 328,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part329.md",
+      "title": "Concurrency - قسمت 36/46",
+      "order": 329,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part330.md",
+      "title": "Concurrency - قسمت 37/46",
+      "order": 330,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part331.md",
+      "title": "Concurrency - قسمت 38/46",
+      "order": 331,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part332.md",
+      "title": "Concurrency - قسمت 39/46",
+      "order": 332,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part333.md",
+      "title": "Concurrency - قسمت 40/46",
+      "order": 333,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part334.md",
+      "title": "Concurrency - قسمت 41/46",
+      "order": 334,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part335.md",
+      "title": "Concurrency - قسمت 42/46",
+      "order": 335,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part336.md",
+      "title": "Concurrency - قسمت 43/46",
+      "order": 336,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part337.md",
+      "title": "Concurrency - قسمت 44/46",
+      "order": 337,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part338.md",
+      "title": "Concurrency - قسمت 45/46",
+      "order": 338,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part339.md",
+      "title": "Concurrency - قسمت 46/46",
+      "order": 339,
+      "html_file": "ch09.xhtml"
+    },
+    {
+      "md_file": "part340.md",
+      "title": "Design Assurance Levels - قسمت 1/35",
+      "order": 340,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part341.md",
+      "title": "Design Assurance Levels - قسمت 2/35",
+      "order": 341,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part342.md",
+      "title": "Design Assurance Levels - قسمت 3/35",
+      "order": 342,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part343.md",
+      "title": "Design Assurance Levels - قسمت 4/35",
+      "order": 343,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part344.md",
+      "title": "Design Assurance Levels - قسمت 5/35",
+      "order": 344,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part345.md",
+      "title": "Design Assurance Levels - قسمت 6/35",
+      "order": 345,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part346.md",
+      "title": "Design Assurance Levels - قسمت 7/35",
+      "order": 346,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part347.md",
+      "title": "Design Assurance Levels - قسمت 8/35",
+      "order": 347,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part348.md",
+      "title": "Design Assurance Levels - قسمت 9/35",
+      "order": 348,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part349.md",
+      "title": "Design Assurance Levels - قسمت 10/35",
+      "order": 349,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part350.md",
+      "title": "Design Assurance Levels - قسمت 11/35",
+      "order": 350,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part351.md",
+      "title": "Design Assurance Levels - قسمت 12/35",
+      "order": 351,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part352.md",
+      "title": "Design Assurance Levels - قسمت 13/35",
+      "order": 352,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part353.md",
+      "title": "Design Assurance Levels - قسمت 14/35",
+      "order": 353,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part354.md",
+      "title": "Design Assurance Levels - قسمت 15/35",
+      "order": 354,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part355.md",
+      "title": "Design Assurance Levels - قسمت 16/35",
+      "order": 355,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part356.md",
+      "title": "Design Assurance Levels - قسمت 17/35",
+      "order": 356,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part357.md",
+      "title": "Design Assurance Levels - قسمت 18/35",
+      "order": 357,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part358.md",
+      "title": "Design Assurance Levels - قسمت 19/35",
+      "order": 358,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part359.md",
+      "title": "Design Assurance Levels - قسمت 20/35",
+      "order": 359,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part360.md",
+      "title": "Design Assurance Levels - قسمت 21/35",
+      "order": 360,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part361.md",
+      "title": "Design Assurance Levels - قسمت 22/35",
+      "order": 361,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part362.md",
+      "title": "Design Assurance Levels - قسمت 23/35",
+      "order": 362,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part363.md",
+      "title": "Design Assurance Levels - قسمت 24/35",
+      "order": 363,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part364.md",
+      "title": "Design Assurance Levels - قسمت 25/35",
+      "order": 364,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part365.md",
+      "title": "Design Assurance Levels - قسمت 26/35",
+      "order": 365,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part366.md",
+      "title": "Design Assurance Levels - قسمت 27/35",
+      "order": 366,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part367.md",
+      "title": "Design Assurance Levels - قسمت 28/35",
+      "order": 367,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part368.md",
+      "title": "Design Assurance Levels - قسمت 29/35",
+      "order": 368,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part369.md",
+      "title": "Design Assurance Levels - قسمت 30/35",
+      "order": 369,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part370.md",
+      "title": "Design Assurance Levels - قسمت 31/35",
+      "order": 370,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part371.md",
+      "title": "Design Assurance Levels - قسمت 32/35",
+      "order": 371,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part372.md",
+      "title": "Design Assurance Levels - قسمت 33/35",
+      "order": 372,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part373.md",
+      "title": "Design Assurance Levels - قسمت 34/35",
+      "order": 373,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part374.md",
+      "title": "Design Assurance Levels - قسمت 35/35",
+      "order": 374,
+      "html_file": "ch10.xhtml"
+    },
+    {
+      "md_file": "part375.md",
+      "title": "Privacy - قسمت 1/25",
+      "order": 375,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part376.md",
+      "title": "Privacy - قسمت 2/25",
+      "order": 376,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part377.md",
+      "title": "Privacy - قسمت 3/25",
+      "order": 377,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part378.md",
+      "title": "Privacy - قسمت 4/25",
+      "order": 378,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part379.md",
+      "title": "Privacy - قسمت 5/25",
+      "order": 379,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part380.md",
+      "title": "Privacy - قسمت 6/25",
+      "order": 380,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part381.md",
+      "title": "Privacy - قسمت 7/25",
+      "order": 381,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part382.md",
+      "title": "Privacy - قسمت 8/25",
+      "order": 382,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part383.md",
+      "title": "Privacy - قسمت 9/25",
+      "order": 383,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part384.md",
+      "title": "Privacy - قسمت 10/25",
+      "order": 384,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part385.md",
+      "title": "Privacy - قسمت 11/25",
+      "order": 385,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part386.md",
+      "title": "Privacy - قسمت 12/25",
+      "order": 386,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part387.md",
+      "title": "Privacy - قسمت 13/25",
+      "order": 387,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part388.md",
+      "title": "Privacy - قسمت 14/25",
+      "order": 388,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part389.md",
+      "title": "Privacy - قسمت 15/25",
+      "order": 389,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part390.md",
+      "title": "Privacy - قسمت 16/25",
+      "order": 390,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part391.md",
+      "title": "Privacy - قسمت 17/25",
+      "order": 391,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part392.md",
+      "title": "Privacy - قسمت 18/25",
+      "order": 392,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part393.md",
+      "title": "Privacy - قسمت 19/25",
+      "order": 393,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part394.md",
+      "title": "Privacy - قسمت 20/25",
+      "order": 394,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part395.md",
+      "title": "Privacy - قسمت 21/25",
+      "order": 395,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part396.md",
+      "title": "Privacy - قسمت 22/25",
+      "order": 396,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part397.md",
+      "title": "Privacy - قسمت 23/25",
+      "order": 397,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part398.md",
+      "title": "Privacy - قسمت 24/25",
+      "order": 398,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part399.md",
+      "title": "Privacy - قسمت 25/25",
+      "order": 399,
+      "html_file": "ch11.xhtml"
+    },
+    {
+      "md_file": "part400.md",
+      "title": "Netflix’s Simian Army - قسمت 1/29",
+      "order": 400,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part401.md",
+      "title": "Netflix’s Simian Army - قسمت 2/29",
+      "order": 401,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part402.md",
+      "title": "Netflix’s Simian Army - قسمت 3/29",
+      "order": 402,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part403.md",
+      "title": "Netflix’s Simian Army - قسمت 4/29",
+      "order": 403,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part404.md",
+      "title": "Netflix’s Simian Army - قسمت 5/29",
+      "order": 404,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part405.md",
+      "title": "Netflix’s Simian Army - قسمت 6/29",
+      "order": 405,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part406.md",
+      "title": "Netflix’s Simian Army - قسمت 7/29",
+      "order": 406,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part407.md",
+      "title": "Netflix’s Simian Army - قسمت 8/29",
+      "order": 407,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part408.md",
+      "title": "Netflix’s Simian Army - قسمت 9/29",
+      "order": 408,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part409.md",
+      "title": "Netflix’s Simian Army - قسمت 10/29",
+      "order": 409,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part410.md",
+      "title": "Netflix’s Simian Army - قسمت 11/29",
+      "order": 410,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part411.md",
+      "title": "Netflix’s Simian Army - قسمت 12/29",
+      "order": 411,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part412.md",
+      "title": "Netflix’s Simian Army - قسمت 13/29",
+      "order": 412,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part413.md",
+      "title": "Netflix’s Simian Army - قسمت 14/29",
+      "order": 413,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part414.md",
+      "title": "Netflix’s Simian Army - قسمت 15/29",
+      "order": 414,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part415.md",
+      "title": "Netflix’s Simian Army - قسمت 16/29",
+      "order": 415,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part416.md",
+      "title": "Netflix’s Simian Army - قسمت 17/29",
+      "order": 416,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part417.md",
+      "title": "Netflix’s Simian Army - قسمت 18/29",
+      "order": 417,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part418.md",
+      "title": "Netflix’s Simian Army - قسمت 19/29",
+      "order": 418,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part419.md",
+      "title": "Netflix’s Simian Army - قسمت 20/29",
+      "order": 419,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part420.md",
+      "title": "Netflix’s Simian Army - قسمت 21/29",
+      "order": 420,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part421.md",
+      "title": "Netflix’s Simian Army - قسمت 22/29",
+      "order": 421,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part422.md",
+      "title": "Netflix’s Simian Army - قسمت 23/29",
+      "order": 422,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part423.md",
+      "title": "Netflix’s Simian Army - قسمت 24/29",
+      "order": 423,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part424.md",
+      "title": "Netflix’s Simian Army - قسمت 25/29",
+      "order": 424,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part425.md",
+      "title": "Netflix’s Simian Army - قسمت 26/29",
+      "order": 425,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part426.md",
+      "title": "Netflix’s Simian Army - قسمت 27/29",
+      "order": 426,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part427.md",
+      "title": "Netflix’s Simian Army - قسمت 28/29",
+      "order": 427,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part428.md",
+      "title": "Netflix’s Simian Army - قسمت 29/29",
+      "order": 428,
+      "html_file": "ch12.xhtml"
+    },
+    {
+      "md_file": "part429.md",
+      "title": "13 - قسمت 1/18",
+      "order": 429,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part430.md",
+      "title": "13 - قسمت 2/18",
+      "order": 430,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part431.md",
+      "title": "13 - قسمت 3/18",
+      "order": 431,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part432.md",
+      "title": "13 - قسمت 4/18",
+      "order": 432,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part433.md",
+      "title": "13 - قسمت 5/18",
+      "order": 433,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part434.md",
+      "title": "13 - قسمت 6/18",
+      "order": 434,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part435.md",
+      "title": "13 - قسمت 7/18",
+      "order": 435,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part436.md",
+      "title": "13 - قسمت 8/18",
+      "order": 436,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part437.md",
+      "title": "13 - قسمت 9/18",
+      "order": 437,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part438.md",
+      "title": "13 - قسمت 10/18",
+      "order": 438,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part439.md",
+      "title": "13 - قسمت 11/18",
+      "order": 439,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part440.md",
+      "title": "13 - قسمت 12/18",
+      "order": 440,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part441.md",
+      "title": "13 - قسمت 13/18",
+      "order": 441,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part442.md",
+      "title": "13 - قسمت 14/18",
+      "order": 442,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part443.md",
+      "title": "13 - قسمت 15/18",
+      "order": 443,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part444.md",
+      "title": "13 - قسمت 16/18",
+      "order": 444,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part445.md",
+      "title": "13 - قسمت 17/18",
+      "order": 445,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part446.md",
+      "title": "13 - قسمت 18/18",
+      "order": 446,
+      "html_file": "ch13.xhtml"
+    },
+    {
+      "md_file": "part447.md",
+      "title": "14 - قسمت 1/20",
+      "order": 447,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part448.md",
+      "title": "14 - قسمت 2/20",
+      "order": 448,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part449.md",
+      "title": "14 - قسمت 3/20",
+      "order": 449,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part450.md",
+      "title": "14 - قسمت 4/20",
+      "order": 450,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part451.md",
+      "title": "14 - قسمت 5/20",
+      "order": 451,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part452.md",
+      "title": "14 - قسمت 6/20",
+      "order": 452,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part453.md",
+      "title": "14 - قسمت 7/20",
+      "order": 453,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part454.md",
+      "title": "14 - قسمت 8/20",
+      "order": 454,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part455.md",
+      "title": "14 - قسمت 9/20",
+      "order": 455,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part456.md",
+      "title": "14 - قسمت 10/20",
+      "order": 456,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part457.md",
+      "title": "14 - قسمت 11/20",
+      "order": 457,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part458.md",
+      "title": "14 - قسمت 12/20",
+      "order": 458,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part459.md",
+      "title": "14 - قسمت 13/20",
+      "order": 459,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part460.md",
+      "title": "14 - قسمت 14/20",
+      "order": 460,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part461.md",
+      "title": "14 - قسمت 15/20",
+      "order": 461,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part462.md",
+      "title": "14 - قسمت 16/20",
+      "order": 462,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part463.md",
+      "title": "14 - قسمت 17/20",
+      "order": 463,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part464.md",
+      "title": "14 - قسمت 18/20",
+      "order": 464,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part465.md",
+      "title": "14 - قسمت 19/20",
+      "order": 465,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part466.md",
+      "title": "14 - قسمت 20/20",
+      "order": 466,
+      "html_file": "ch14.xhtml"
+    },
+    {
+      "md_file": "part467.md",
+      "title": "Part III: Architectural Solutions",
+      "order": 467,
+      "html_file": "part03.xhtml"
+    },
+    {
+      "md_file": "part468.md",
+      "title": "15 - قسمت 1/37",
+      "order": 468,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part469.md",
+      "title": "15 - قسمت 2/37",
+      "order": 469,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part470.md",
+      "title": "15 - قسمت 3/37",
+      "order": 470,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part471.md",
+      "title": "15 - قسمت 4/37",
+      "order": 471,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part472.md",
+      "title": "15 - قسمت 5/37",
+      "order": 472,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part473.md",
+      "title": "15 - قسمت 6/37",
+      "order": 473,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part474.md",
+      "title": "15 - قسمت 7/37",
+      "order": 474,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part475.md",
+      "title": "15 - قسمت 8/37",
+      "order": 475,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part476.md",
+      "title": "15 - قسمت 9/37",
+      "order": 476,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part477.md",
+      "title": "15 - قسمت 10/37",
+      "order": 477,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part478.md",
+      "title": "15 - قسمت 11/37",
+      "order": 478,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part479.md",
+      "title": "15 - قسمت 12/37",
+      "order": 479,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part480.md",
+      "title": "15 - قسمت 13/37",
+      "order": 480,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part481.md",
+      "title": "15 - قسمت 14/37",
+      "order": 481,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part482.md",
+      "title": "15 - قسمت 15/37",
+      "order": 482,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part483.md",
+      "title": "15 - قسمت 16/37",
+      "order": 483,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part484.md",
+      "title": "15 - قسمت 17/37",
+      "order": 484,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part485.md",
+      "title": "15 - قسمت 18/37",
+      "order": 485,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part486.md",
+      "title": "15 - قسمت 19/37",
+      "order": 486,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part487.md",
+      "title": "15 - قسمت 20/37",
+      "order": 487,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part488.md",
+      "title": "15 - قسمت 21/37",
+      "order": 488,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part489.md",
+      "title": "15 - قسمت 22/37",
+      "order": 489,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part490.md",
+      "title": "15 - قسمت 23/37",
+      "order": 490,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part491.md",
+      "title": "15 - قسمت 24/37",
+      "order": 491,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part492.md",
+      "title": "15 - قسمت 25/37",
+      "order": 492,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part493.md",
+      "title": "15 - قسمت 26/37",
+      "order": 493,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part494.md",
+      "title": "15 - قسمت 27/37",
+      "order": 494,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part495.md",
+      "title": "15 - قسمت 28/37",
+      "order": 495,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part496.md",
+      "title": "15 - قسمت 29/37",
+      "order": 496,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part497.md",
+      "title": "15 - قسمت 30/37",
+      "order": 497,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part498.md",
+      "title": "15 - قسمت 31/37",
+      "order": 498,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part499.md",
+      "title": "15 - قسمت 32/37",
+      "order": 499,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part500.md",
+      "title": "15 - قسمت 33/37",
+      "order": 500,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part501.md",
+      "title": "15 - قسمت 34/37",
+      "order": 501,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part502.md",
+      "title": "15 - قسمت 35/37",
+      "order": 502,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part503.md",
+      "title": "15 - قسمت 36/37",
+      "order": 503,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part504.md",
+      "title": "15 - قسمت 37/37",
+      "order": 504,
+      "html_file": "ch15.xhtml"
+    },
+    {
+      "md_file": "part505.md",
+      "title": "16 - قسمت 1/29",
+      "order": 505,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part506.md",
+      "title": "16 - قسمت 2/29",
+      "order": 506,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part507.md",
+      "title": "16 - قسمت 3/29",
+      "order": 507,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part508.md",
+      "title": "16 - قسمت 4/29",
+      "order": 508,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part509.md",
+      "title": "16 - قسمت 5/29",
+      "order": 509,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part510.md",
+      "title": "16 - قسمت 6/29",
+      "order": 510,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part511.md",
+      "title": "16 - قسمت 7/29",
+      "order": 511,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part512.md",
+      "title": "16 - قسمت 8/29",
+      "order": 512,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part513.md",
+      "title": "16 - قسمت 9/29",
+      "order": 513,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part514.md",
+      "title": "16 - قسمت 10/29",
+      "order": 514,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part515.md",
+      "title": "16 - قسمت 11/29",
+      "order": 515,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part516.md",
+      "title": "16 - قسمت 12/29",
+      "order": 516,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part517.md",
+      "title": "16 - قسمت 13/29",
+      "order": 517,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part518.md",
+      "title": "16 - قسمت 14/29",
+      "order": 518,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part519.md",
+      "title": "16 - قسمت 15/29",
+      "order": 519,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part520.md",
+      "title": "16 - قسمت 16/29",
+      "order": 520,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part521.md",
+      "title": "16 - قسمت 17/29",
+      "order": 521,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part522.md",
+      "title": "16 - قسمت 18/29",
+      "order": 522,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part523.md",
+      "title": "16 - قسمت 19/29",
+      "order": 523,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part524.md",
+      "title": "16 - قسمت 20/29",
+      "order": 524,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part525.md",
+      "title": "16 - قسمت 21/29",
+      "order": 525,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part526.md",
+      "title": "16 - قسمت 22/29",
+      "order": 526,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part527.md",
+      "title": "16 - قسمت 23/29",
+      "order": 527,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part528.md",
+      "title": "16 - قسمت 24/29",
+      "order": 528,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part529.md",
+      "title": "16 - قسمت 25/29",
+      "order": 529,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part530.md",
+      "title": "16 - قسمت 26/29",
+      "order": 530,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part531.md",
+      "title": "16 - قسمت 27/29",
+      "order": 531,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part532.md",
+      "title": "16 - قسمت 28/29",
+      "order": 532,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part533.md",
+      "title": "16 - قسمت 29/29",
+      "order": 533,
+      "html_file": "ch16.xhtml"
+    },
+    {
+      "md_file": "part534.md",
+      "title": "17 - قسمت 1/37",
+      "order": 534,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part535.md",
+      "title": "17 - قسمت 2/37",
+      "order": 535,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part536.md",
+      "title": "17 - قسمت 3/37",
+      "order": 536,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part537.md",
+      "title": "17 - قسمت 4/37",
+      "order": 537,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part538.md",
+      "title": "17 - قسمت 5/37",
+      "order": 538,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part539.md",
+      "title": "17 - قسمت 6/37",
+      "order": 539,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part540.md",
+      "title": "17 - قسمت 7/37",
+      "order": 540,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part541.md",
+      "title": "17 - قسمت 8/37",
+      "order": 541,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part542.md",
+      "title": "17 - قسمت 9/37",
+      "order": 542,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part543.md",
+      "title": "17 - قسمت 10/37",
+      "order": 543,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part544.md",
+      "title": "17 - قسمت 11/37",
+      "order": 544,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part545.md",
+      "title": "17 - قسمت 12/37",
+      "order": 545,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part546.md",
+      "title": "17 - قسمت 13/37",
+      "order": 546,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part547.md",
+      "title": "17 - قسمت 14/37",
+      "order": 547,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part548.md",
+      "title": "17 - قسمت 15/37",
+      "order": 548,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part549.md",
+      "title": "17 - قسمت 16/37",
+      "order": 549,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part550.md",
+      "title": "17 - قسمت 17/37",
+      "order": 550,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part551.md",
+      "title": "17 - قسمت 18/37",
+      "order": 551,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part552.md",
+      "title": "17 - قسمت 19/37",
+      "order": 552,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part553.md",
+      "title": "17 - قسمت 20/37",
+      "order": 553,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part554.md",
+      "title": "17 - قسمت 21/37",
+      "order": 554,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part555.md",
+      "title": "17 - قسمت 22/37",
+      "order": 555,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part556.md",
+      "title": "17 - قسمت 23/37",
+      "order": 556,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part557.md",
+      "title": "17 - قسمت 24/37",
+      "order": 557,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part558.md",
+      "title": "17 - قسمت 25/37",
+      "order": 558,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part559.md",
+      "title": "17 - قسمت 26/37",
+      "order": 559,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part560.md",
+      "title": "17 - قسمت 27/37",
+      "order": 560,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part561.md",
+      "title": "17 - قسمت 28/37",
+      "order": 561,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part562.md",
+      "title": "17 - قسمت 29/37",
+      "order": 562,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part563.md",
+      "title": "17 - قسمت 30/37",
+      "order": 563,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part564.md",
+      "title": "17 - قسمت 31/37",
+      "order": 564,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part565.md",
+      "title": "17 - قسمت 32/37",
+      "order": 565,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part566.md",
+      "title": "17 - قسمت 33/37",
+      "order": 566,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part567.md",
+      "title": "17 - قسمت 34/37",
+      "order": 567,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part568.md",
+      "title": "17 - قسمت 35/37",
+      "order": 568,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part569.md",
+      "title": "17 - قسمت 36/37",
+      "order": 569,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part570.md",
+      "title": "17 - قسمت 37/37",
+      "order": 570,
+      "html_file": "ch17.xhtml"
+    },
+    {
+      "md_file": "part571.md",
+      "title": "18 - قسمت 1/35",
+      "order": 571,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part572.md",
+      "title": "18 - قسمت 2/35",
+      "order": 572,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part573.md",
+      "title": "18 - قسمت 3/35",
+      "order": 573,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part574.md",
+      "title": "18 - قسمت 4/35",
+      "order": 574,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part575.md",
+      "title": "18 - قسمت 5/35",
+      "order": 575,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part576.md",
+      "title": "18 - قسمت 6/35",
+      "order": 576,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part577.md",
+      "title": "18 - قسمت 7/35",
+      "order": 577,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part578.md",
+      "title": "18 - قسمت 8/35",
+      "order": 578,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part579.md",
+      "title": "18 - قسمت 9/35",
+      "order": 579,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part580.md",
+      "title": "18 - قسمت 10/35",
+      "order": 580,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part581.md",
+      "title": "18 - قسمت 11/35",
+      "order": 581,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part582.md",
+      "title": "18 - قسمت 12/35",
+      "order": 582,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part583.md",
+      "title": "18 - قسمت 13/35",
+      "order": 583,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part584.md",
+      "title": "18 - قسمت 14/35",
+      "order": 584,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part585.md",
+      "title": "18 - قسمت 15/35",
+      "order": 585,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part586.md",
+      "title": "18 - قسمت 16/35",
+      "order": 586,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part587.md",
+      "title": "18 - قسمت 17/35",
+      "order": 587,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part588.md",
+      "title": "18 - قسمت 18/35",
+      "order": 588,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part589.md",
+      "title": "18 - قسمت 19/35",
+      "order": 589,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part590.md",
+      "title": "18 - قسمت 20/35",
+      "order": 590,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part591.md",
+      "title": "18 - قسمت 21/35",
+      "order": 591,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part592.md",
+      "title": "18 - قسمت 22/35",
+      "order": 592,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part593.md",
+      "title": "18 - قسمت 23/35",
+      "order": 593,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part594.md",
+      "title": "18 - قسمت 24/35",
+      "order": 594,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part595.md",
+      "title": "18 - قسمت 25/35",
+      "order": 595,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part596.md",
+      "title": "18 - قسمت 26/35",
+      "order": 596,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part597.md",
+      "title": "18 - قسمت 27/35",
+      "order": 597,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part598.md",
+      "title": "18 - قسمت 28/35",
+      "order": 598,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part599.md",
+      "title": "18 - قسمت 29/35",
+      "order": 599,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part600.md",
+      "title": "18 - قسمت 30/35",
+      "order": 600,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part601.md",
+      "title": "18 - قسمت 31/35",
+      "order": 601,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part602.md",
+      "title": "18 - قسمت 32/35",
+      "order": 602,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part603.md",
+      "title": "18 - قسمت 33/35",
+      "order": 603,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part604.md",
+      "title": "18 - قسمت 34/35",
+      "order": 604,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part605.md",
+      "title": "18 - قسمت 35/35",
+      "order": 605,
+      "html_file": "ch18.xhtml"
+    },
+    {
+      "md_file": "part606.md",
+      "title": "Part IV: Scalable Architecture Practices",
+      "order": 606,
+      "html_file": "part04.xhtml"
+    },
+    {
+      "md_file": "part607.md",
+      "title": "The Quality Attribute Workshop - قسمت 1/26",
+      "order": 607,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part608.md",
+      "title": "The Quality Attribute Workshop - قسمت 2/26",
+      "order": 608,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part609.md",
+      "title": "The Quality Attribute Workshop - قسمت 3/26",
+      "order": 609,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part610.md",
+      "title": "The Quality Attribute Workshop - قسمت 4/26",
+      "order": 610,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part611.md",
+      "title": "The Quality Attribute Workshop - قسمت 5/26",
+      "order": 611,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part612.md",
+      "title": "The Quality Attribute Workshop - قسمت 6/26",
+      "order": 612,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part613.md",
+      "title": "The Quality Attribute Workshop - قسمت 7/26",
+      "order": 613,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part614.md",
+      "title": "The Quality Attribute Workshop - قسمت 8/26",
+      "order": 614,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part615.md",
+      "title": "The Quality Attribute Workshop - قسمت 9/26",
+      "order": 615,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part616.md",
+      "title": "The Quality Attribute Workshop - قسمت 10/26",
+      "order": 616,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part617.md",
+      "title": "The Quality Attribute Workshop - قسمت 11/26",
+      "order": 617,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part618.md",
+      "title": "The Quality Attribute Workshop - قسمت 12/26",
+      "order": 618,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part619.md",
+      "title": "The Quality Attribute Workshop - قسمت 13/26",
+      "order": 619,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part620.md",
+      "title": "The Quality Attribute Workshop - قسمت 14/26",
+      "order": 620,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part621.md",
+      "title": "The Quality Attribute Workshop - قسمت 15/26",
+      "order": 621,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part622.md",
+      "title": "The Quality Attribute Workshop - قسمت 16/26",
+      "order": 622,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part623.md",
+      "title": "The Quality Attribute Workshop - قسمت 17/26",
+      "order": 623,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part624.md",
+      "title": "The Quality Attribute Workshop - قسمت 18/26",
+      "order": 624,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part625.md",
+      "title": "The Quality Attribute Workshop - قسمت 19/26",
+      "order": 625,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part626.md",
+      "title": "The Quality Attribute Workshop - قسمت 20/26",
+      "order": 626,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part627.md",
+      "title": "The Quality Attribute Workshop - قسمت 21/26",
+      "order": 627,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part628.md",
+      "title": "The Quality Attribute Workshop - قسمت 22/26",
+      "order": 628,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part629.md",
+      "title": "The Quality Attribute Workshop - قسمت 23/26",
+      "order": 629,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part630.md",
+      "title": "The Quality Attribute Workshop - قسمت 24/26",
+      "order": 630,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part631.md",
+      "title": "The Quality Attribute Workshop - قسمت 25/26",
+      "order": 631,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part632.md",
+      "title": "The Quality Attribute Workshop - قسمت 26/26",
+      "order": 632,
+      "html_file": "ch19.xhtml"
+    },
+    {
+      "md_file": "part633.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 1/41",
+      "order": 633,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part634.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 2/41",
+      "order": 634,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part635.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 3/41",
+      "order": 635,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part636.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 4/41",
+      "order": 636,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part637.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 5/41",
+      "order": 637,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part638.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 6/41",
+      "order": 638,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part639.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 7/41",
+      "order": 639,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part640.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 8/41",
+      "order": 640,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part641.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 9/41",
+      "order": 641,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part642.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 10/41",
+      "order": 642,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part643.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 11/41",
+      "order": 643,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part644.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 12/41",
+      "order": 644,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part645.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 13/41",
+      "order": 645,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part646.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 14/41",
+      "order": 646,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part647.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 15/41",
+      "order": 647,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part648.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 16/41",
+      "order": 648,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part649.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 17/41",
+      "order": 649,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part650.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 18/41",
+      "order": 650,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part651.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 19/41",
+      "order": 651,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part652.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 20/41",
+      "order": 652,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part653.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 21/41",
+      "order": 653,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part654.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 22/41",
+      "order": 654,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part655.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 23/41",
+      "order": 655,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part656.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 24/41",
+      "order": 656,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part657.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 25/41",
+      "order": 657,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part658.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 26/41",
+      "order": 658,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part659.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 27/41",
+      "order": 659,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part660.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 28/41",
+      "order": 660,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part661.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 29/41",
+      "order": 661,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part662.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 30/41",
+      "order": 662,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part663.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 31/41",
+      "order": 663,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part664.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 32/41",
+      "order": 664,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part665.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 33/41",
+      "order": 665,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part666.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 34/41",
+      "order": 666,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part667.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 35/41",
+      "order": 667,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part668.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 36/41",
+      "order": 668,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part669.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 37/41",
+      "order": 669,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part670.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 38/41",
+      "order": 670,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part671.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 39/41",
+      "order": 671,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part672.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 40/41",
+      "order": 672,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part673.md",
+      "title": "To Prototype or Not to Prototype? - قسمت 41/41",
+      "order": 673,
+      "html_file": "ch20.xhtml"
+    },
+    {
+      "md_file": "part674.md",
+      "title": "Going Off Script - قسمت 1/47",
+      "order": 674,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part675.md",
+      "title": "Going Off Script - قسمت 2/47",
+      "order": 675,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part676.md",
+      "title": "Going Off Script - قسمت 3/47",
+      "order": 676,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part677.md",
+      "title": "Going Off Script - قسمت 4/47",
+      "order": 677,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part678.md",
+      "title": "Going Off Script - قسمت 5/47",
+      "order": 678,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part679.md",
+      "title": "Going Off Script - قسمت 6/47",
+      "order": 679,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part680.md",
+      "title": "Going Off Script - قسمت 7/47",
+      "order": 680,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part681.md",
+      "title": "Going Off Script - قسمت 8/47",
+      "order": 681,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part682.md",
+      "title": "Going Off Script - قسمت 9/47",
+      "order": 682,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part683.md",
+      "title": "Going Off Script - قسمت 10/47",
+      "order": 683,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part684.md",
+      "title": "Going Off Script - قسمت 11/47",
+      "order": 684,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part685.md",
+      "title": "Going Off Script - قسمت 12/47",
+      "order": 685,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part686.md",
+      "title": "Going Off Script - قسمت 13/47",
+      "order": 686,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part687.md",
+      "title": "Going Off Script - قسمت 14/47",
+      "order": 687,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part688.md",
+      "title": "Going Off Script - قسمت 15/47",
+      "order": 688,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part689.md",
+      "title": "Going Off Script - قسمت 16/47",
+      "order": 689,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part690.md",
+      "title": "Going Off Script - قسمت 17/47",
+      "order": 690,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part691.md",
+      "title": "Going Off Script - قسمت 18/47",
+      "order": 691,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part692.md",
+      "title": "Going Off Script - قسمت 19/47",
+      "order": 692,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part693.md",
+      "title": "Going Off Script - قسمت 20/47",
+      "order": 693,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part694.md",
+      "title": "Going Off Script - قسمت 21/47",
+      "order": 694,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part695.md",
+      "title": "Going Off Script - قسمت 22/47",
+      "order": 695,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part696.md",
+      "title": "Going Off Script - قسمت 23/47",
+      "order": 696,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part697.md",
+      "title": "Going Off Script - قسمت 24/47",
+      "order": 697,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part698.md",
+      "title": "Going Off Script - قسمت 25/47",
+      "order": 698,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part699.md",
+      "title": "Going Off Script - قسمت 26/47",
+      "order": 699,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part700.md",
+      "title": "Going Off Script - قسمت 27/47",
+      "order": 700,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part701.md",
+      "title": "Going Off Script - قسمت 28/47",
+      "order": 701,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part702.md",
+      "title": "Going Off Script - قسمت 29/47",
+      "order": 702,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part703.md",
+      "title": "Going Off Script - قسمت 30/47",
+      "order": 703,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part704.md",
+      "title": "Going Off Script - قسمت 31/47",
+      "order": 704,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part705.md",
+      "title": "Going Off Script - قسمت 32/47",
+      "order": 705,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part706.md",
+      "title": "Going Off Script - قسمت 33/47",
+      "order": 706,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part707.md",
+      "title": "Going Off Script - قسمت 34/47",
+      "order": 707,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part708.md",
+      "title": "Going Off Script - قسمت 35/47",
+      "order": 708,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part709.md",
+      "title": "Going Off Script - قسمت 36/47",
+      "order": 709,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part710.md",
+      "title": "Going Off Script - قسمت 37/47",
+      "order": 710,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part711.md",
+      "title": "Going Off Script - قسمت 38/47",
+      "order": 711,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part712.md",
+      "title": "Going Off Script - قسمت 39/47",
+      "order": 712,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part713.md",
+      "title": "Going Off Script - قسمت 40/47",
+      "order": 713,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part714.md",
+      "title": "Going Off Script - قسمت 41/47",
+      "order": 714,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part715.md",
+      "title": "Going Off Script - قسمت 42/47",
+      "order": 715,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part716.md",
+      "title": "Going Off Script - قسمت 43/47",
+      "order": 716,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part717.md",
+      "title": "Going Off Script - قسمت 44/47",
+      "order": 717,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part718.md",
+      "title": "Going Off Script - قسمت 45/47",
+      "order": 718,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part719.md",
+      "title": "Going Off Script - قسمت 46/47",
+      "order": 719,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part720.md",
+      "title": "Going Off Script - قسمت 47/47",
+      "order": 720,
+      "html_file": "ch21.xhtml"
+    },
+    {
+      "md_file": "part721.md",
+      "title": "22 - قسمت 1/66",
+      "order": 721,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part722.md",
+      "title": "22 - قسمت 2/66",
+      "order": 722,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part723.md",
+      "title": "22 - قسمت 3/66",
+      "order": 723,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part724.md",
+      "title": "22 - قسمت 4/66",
+      "order": 724,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part725.md",
+      "title": "22 - قسمت 5/66",
+      "order": 725,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part726.md",
+      "title": "22 - قسمت 6/66",
+      "order": 726,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part727.md",
+      "title": "22 - قسمت 7/66",
+      "order": 727,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part728.md",
+      "title": "22 - قسمت 8/66",
+      "order": 728,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part729.md",
+      "title": "22 - قسمت 9/66",
+      "order": 729,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part730.md",
+      "title": "22 - قسمت 10/66",
+      "order": 730,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part731.md",
+      "title": "22 - قسمت 11/66",
+      "order": 731,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part732.md",
+      "title": "22 - قسمت 12/66",
+      "order": 732,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part733.md",
+      "title": "22 - قسمت 13/66",
+      "order": 733,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part734.md",
+      "title": "22 - قسمت 14/66",
+      "order": 734,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part735.md",
+      "title": "22 - قسمت 15/66",
+      "order": 735,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part736.md",
+      "title": "22 - قسمت 16/66",
+      "order": 736,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part737.md",
+      "title": "22 - قسمت 17/66",
+      "order": 737,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part738.md",
+      "title": "22 - قسمت 18/66",
+      "order": 738,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part739.md",
+      "title": "22 - قسمت 19/66",
+      "order": 739,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part740.md",
+      "title": "22 - قسمت 20/66",
+      "order": 740,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part741.md",
+      "title": "22 - قسمت 21/66",
+      "order": 741,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part742.md",
+      "title": "22 - قسمت 22/66",
+      "order": 742,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part743.md",
+      "title": "22 - قسمت 23/66",
+      "order": 743,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part744.md",
+      "title": "22 - قسمت 24/66",
+      "order": 744,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part745.md",
+      "title": "22 - قسمت 25/66",
+      "order": 745,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part746.md",
+      "title": "22 - قسمت 26/66",
+      "order": 746,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part747.md",
+      "title": "22 - قسمت 27/66",
+      "order": 747,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part748.md",
+      "title": "22 - قسمت 28/66",
+      "order": 748,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part749.md",
+      "title": "22 - قسمت 29/66",
+      "order": 749,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part750.md",
+      "title": "22 - قسمت 30/66",
+      "order": 750,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part751.md",
+      "title": "22 - قسمت 31/66",
+      "order": 751,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part752.md",
+      "title": "22 - قسمت 32/66",
+      "order": 752,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part753.md",
+      "title": "22 - قسمت 33/66",
+      "order": 753,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part754.md",
+      "title": "22 - قسمت 34/66",
+      "order": 754,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part755.md",
+      "title": "22 - قسمت 35/66",
+      "order": 755,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part756.md",
+      "title": "22 - قسمت 36/66",
+      "order": 756,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part757.md",
+      "title": "22 - قسمت 37/66",
+      "order": 757,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part758.md",
+      "title": "22 - قسمت 38/66",
+      "order": 758,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part759.md",
+      "title": "22 - قسمت 39/66",
+      "order": 759,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part760.md",
+      "title": "22 - قسمت 40/66",
+      "order": 760,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part761.md",
+      "title": "22 - قسمت 41/66",
+      "order": 761,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part762.md",
+      "title": "22 - قسمت 42/66",
+      "order": 762,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part763.md",
+      "title": "22 - قسمت 43/66",
+      "order": 763,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part764.md",
+      "title": "22 - قسمت 44/66",
+      "order": 764,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part765.md",
+      "title": "22 - قسمت 45/66",
+      "order": 765,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part766.md",
+      "title": "22 - قسمت 46/66",
+      "order": 766,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part767.md",
+      "title": "22 - قسمت 47/66",
+      "order": 767,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part768.md",
+      "title": "22 - قسمت 48/66",
+      "order": 768,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part769.md",
+      "title": "22 - قسمت 49/66",
+      "order": 769,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part770.md",
+      "title": "22 - قسمت 50/66",
+      "order": 770,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part771.md",
+      "title": "22 - قسمت 51/66",
+      "order": 771,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part772.md",
+      "title": "22 - قسمت 52/66",
+      "order": 772,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part773.md",
+      "title": "22 - قسمت 53/66",
+      "order": 773,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part774.md",
+      "title": "22 - قسمت 54/66",
+      "order": 774,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part775.md",
+      "title": "22 - قسمت 55/66",
+      "order": 775,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part776.md",
+      "title": "22 - قسمت 56/66",
+      "order": 776,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part777.md",
+      "title": "22 - قسمت 57/66",
+      "order": 777,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part778.md",
+      "title": "22 - قسمت 58/66",
+      "order": 778,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part779.md",
+      "title": "22 - قسمت 59/66",
+      "order": 779,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part780.md",
+      "title": "22 - قسمت 60/66",
+      "order": 780,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part781.md",
+      "title": "22 - قسمت 61/66",
+      "order": 781,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part782.md",
+      "title": "22 - قسمت 62/66",
+      "order": 782,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part783.md",
+      "title": "22 - قسمت 63/66",
+      "order": 783,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part784.md",
+      "title": "22 - قسمت 64/66",
+      "order": 784,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part785.md",
+      "title": "22 - قسمت 65/66",
+      "order": 785,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part786.md",
+      "title": "22 - قسمت 66/66",
+      "order": 786,
+      "html_file": "ch22.xhtml"
+    },
+    {
+      "md_file": "part787.md",
+      "title": "23 - قسمت 1/21",
+      "order": 787,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part788.md",
+      "title": "23 - قسمت 2/21",
+      "order": 788,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part789.md",
+      "title": "23 - قسمت 3/21",
+      "order": 789,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part790.md",
+      "title": "23 - قسمت 4/21",
+      "order": 790,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part791.md",
+      "title": "23 - قسمت 5/21",
+      "order": 791,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part792.md",
+      "title": "23 - قسمت 6/21",
+      "order": 792,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part793.md",
+      "title": "23 - قسمت 7/21",
+      "order": 793,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part794.md",
+      "title": "23 - قسمت 8/21",
+      "order": 794,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part795.md",
+      "title": "23 - قسمت 9/21",
+      "order": 795,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part796.md",
+      "title": "23 - قسمت 10/21",
+      "order": 796,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part797.md",
+      "title": "23 - قسمت 11/21",
+      "order": 797,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part798.md",
+      "title": "23 - قسمت 12/21",
+      "order": 798,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part799.md",
+      "title": "23 - قسمت 13/21",
+      "order": 799,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part800.md",
+      "title": "23 - قسمت 14/21",
+      "order": 800,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part801.md",
+      "title": "23 - قسمت 15/21",
+      "order": 801,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part802.md",
+      "title": "23 - قسمت 16/21",
+      "order": 802,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part803.md",
+      "title": "23 - قسمت 17/21",
+      "order": 803,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part804.md",
+      "title": "23 - قسمت 18/21",
+      "order": 804,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part805.md",
+      "title": "23 - قسمت 19/21",
+      "order": 805,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part806.md",
+      "title": "23 - قسمت 20/21",
+      "order": 806,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part807.md",
+      "title": "23 - قسمت 21/21",
+      "order": 807,
+      "html_file": "ch23.xhtml"
+    },
+    {
+      "md_file": "part808.md",
+      "title": "Part V: Architecture and the Organization",
+      "order": 808,
+      "html_file": "part05.xhtml"
+    },
+    {
+      "md_file": "part809.md",
+      "title": "24 - قسمت 1/25",
+      "order": 809,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part810.md",
+      "title": "24 - قسمت 2/25",
+      "order": 810,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part811.md",
+      "title": "24 - قسمت 3/25",
+      "order": 811,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part812.md",
+      "title": "24 - قسمت 4/25",
+      "order": 812,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part813.md",
+      "title": "24 - قسمت 5/25",
+      "order": 813,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part814.md",
+      "title": "24 - قسمت 6/25",
+      "order": 814,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part815.md",
+      "title": "24 - قسمت 7/25",
+      "order": 815,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part816.md",
+      "title": "24 - قسمت 8/25",
+      "order": 816,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part817.md",
+      "title": "24 - قسمت 9/25",
+      "order": 817,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part818.md",
+      "title": "24 - قسمت 10/25",
+      "order": 818,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part819.md",
+      "title": "24 - قسمت 11/25",
+      "order": 819,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part820.md",
+      "title": "24 - قسمت 12/25",
+      "order": 820,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part821.md",
+      "title": "24 - قسمت 13/25",
+      "order": 821,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part822.md",
+      "title": "24 - قسمت 14/25",
+      "order": 822,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part823.md",
+      "title": "24 - قسمت 15/25",
+      "order": 823,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part824.md",
+      "title": "24 - قسمت 16/25",
+      "order": 824,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part825.md",
+      "title": "24 - قسمت 17/25",
+      "order": 825,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part826.md",
+      "title": "24 - قسمت 18/25",
+      "order": 826,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part827.md",
+      "title": "24 - قسمت 19/25",
+      "order": 827,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part828.md",
+      "title": "24 - قسمت 20/25",
+      "order": 828,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part829.md",
+      "title": "24 - قسمت 21/25",
+      "order": 829,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part830.md",
+      "title": "24 - قسمت 22/25",
+      "order": 830,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part831.md",
+      "title": "24 - قسمت 23/25",
+      "order": 831,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part832.md",
+      "title": "24 - قسمت 24/25",
+      "order": 832,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part833.md",
+      "title": "24 - قسمت 25/25",
+      "order": 833,
+      "html_file": "ch24.xhtml"
+    },
+    {
+      "md_file": "part834.md",
+      "title": "25 - قسمت 1/24",
+      "order": 834,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part835.md",
+      "title": "25 - قسمت 2/24",
+      "order": 835,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part836.md",
+      "title": "25 - قسمت 3/24",
+      "order": 836,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part837.md",
+      "title": "25 - قسمت 4/24",
+      "order": 837,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part838.md",
+      "title": "25 - قسمت 5/24",
+      "order": 838,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part839.md",
+      "title": "25 - قسمت 6/24",
+      "order": 839,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part840.md",
+      "title": "25 - قسمت 7/24",
+      "order": 840,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part841.md",
+      "title": "25 - قسمت 8/24",
+      "order": 841,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part842.md",
+      "title": "25 - قسمت 9/24",
+      "order": 842,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part843.md",
+      "title": "25 - قسمت 10/24",
+      "order": 843,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part844.md",
+      "title": "25 - قسمت 11/24",
+      "order": 844,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part845.md",
+      "title": "25 - قسمت 12/24",
+      "order": 845,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part846.md",
+      "title": "25 - قسمت 13/24",
+      "order": 846,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part847.md",
+      "title": "25 - قسمت 14/24",
+      "order": 847,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part848.md",
+      "title": "25 - قسمت 15/24",
+      "order": 848,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part849.md",
+      "title": "25 - قسمت 16/24",
+      "order": 849,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part850.md",
+      "title": "25 - قسمت 17/24",
+      "order": 850,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part851.md",
+      "title": "25 - قسمت 18/24",
+      "order": 851,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part852.md",
+      "title": "25 - قسمت 19/24",
+      "order": 852,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part853.md",
+      "title": "25 - قسمت 20/24",
+      "order": 853,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part854.md",
+      "title": "25 - قسمت 21/24",
+      "order": 854,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part855.md",
+      "title": "25 - قسمت 22/24",
+      "order": 855,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part856.md",
+      "title": "25 - قسمت 23/24",
+      "order": 856,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part857.md",
+      "title": "25 - قسمت 24/24",
+      "order": 857,
+      "html_file": "ch25.xhtml"
+    },
+    {
+      "md_file": "part858.md",
+      "title": "Part VI: Conclusions",
+      "order": 858,
+      "html_file": "part06.xhtml"
+    },
+    {
+      "md_file": "part859.md",
+      "title": "26 - قسمت 1/19",
+      "order": 859,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part860.md",
+      "title": "26 - قسمت 2/19",
+      "order": 860,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part861.md",
+      "title": "26 - قسمت 3/19",
+      "order": 861,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part862.md",
+      "title": "26 - قسمت 4/19",
+      "order": 862,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part863.md",
+      "title": "26 - قسمت 5/19",
+      "order": 863,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part864.md",
+      "title": "26 - قسمت 6/19",
+      "order": 864,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part865.md",
+      "title": "26 - قسمت 7/19",
+      "order": 865,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part866.md",
+      "title": "26 - قسمت 8/19",
+      "order": 866,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part867.md",
+      "title": "26 - قسمت 9/19",
+      "order": 867,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part868.md",
+      "title": "26 - قسمت 10/19",
+      "order": 868,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part869.md",
+      "title": "26 - قسمت 11/19",
+      "order": 869,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part870.md",
+      "title": "26 - قسمت 12/19",
+      "order": 870,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part871.md",
+      "title": "26 - قسمت 13/19",
+      "order": 871,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part872.md",
+      "title": "26 - قسمت 14/19",
+      "order": 872,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part873.md",
+      "title": "26 - قسمت 15/19",
+      "order": 873,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part874.md",
+      "title": "26 - قسمت 16/19",
+      "order": 874,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part875.md",
+      "title": "26 - قسمت 17/19",
+      "order": 875,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part876.md",
+      "title": "26 - قسمت 18/19",
+      "order": 876,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part877.md",
+      "title": "26 - قسمت 19/19",
+      "order": 877,
+      "html_file": "ch26.xhtml"
+    },
+    {
+      "md_file": "part878.md",
+      "title": "References - قسمت 1/35",
+      "order": 878,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part879.md",
+      "title": "References - قسمت 2/35",
+      "order": 879,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part880.md",
+      "title": "References - قسمت 3/35",
+      "order": 880,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part881.md",
+      "title": "References - قسمت 4/35",
+      "order": 881,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part882.md",
+      "title": "References - قسمت 5/35",
+      "order": 882,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part883.md",
+      "title": "References - قسمت 6/35",
+      "order": 883,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part884.md",
+      "title": "References - قسمت 7/35",
+      "order": 884,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part885.md",
+      "title": "References - قسمت 8/35",
+      "order": 885,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part886.md",
+      "title": "References - قسمت 9/35",
+      "order": 886,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part887.md",
+      "title": "References - قسمت 10/35",
+      "order": 887,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part888.md",
+      "title": "References - قسمت 11/35",
+      "order": 888,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part889.md",
+      "title": "References - قسمت 12/35",
+      "order": 889,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part890.md",
+      "title": "References - قسمت 13/35",
+      "order": 890,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part891.md",
+      "title": "References - قسمت 14/35",
+      "order": 891,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part892.md",
+      "title": "References - قسمت 15/35",
+      "order": 892,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part893.md",
+      "title": "References - قسمت 16/35",
+      "order": 893,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part894.md",
+      "title": "References - قسمت 17/35",
+      "order": 894,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part895.md",
+      "title": "References - قسمت 18/35",
+      "order": 895,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part896.md",
+      "title": "References - قسمت 19/35",
+      "order": 896,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part897.md",
+      "title": "References - قسمت 20/35",
+      "order": 897,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part898.md",
+      "title": "References - قسمت 21/35",
+      "order": 898,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part899.md",
+      "title": "References - قسمت 22/35",
+      "order": 899,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part900.md",
+      "title": "References - قسمت 23/35",
+      "order": 900,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part901.md",
+      "title": "References - قسمت 24/35",
+      "order": 901,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part902.md",
+      "title": "References - قسمت 25/35",
+      "order": 902,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part903.md",
+      "title": "References - قسمت 26/35",
+      "order": 903,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part904.md",
+      "title": "References - قسمت 27/35",
+      "order": 904,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part905.md",
+      "title": "References - قسمت 28/35",
+      "order": 905,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part906.md",
+      "title": "References - قسمت 29/35",
+      "order": 906,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part907.md",
+      "title": "References - قسمت 30/35",
+      "order": 907,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part908.md",
+      "title": "References - قسمت 31/35",
+      "order": 908,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part909.md",
+      "title": "References - قسمت 32/35",
+      "order": 909,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part910.md",
+      "title": "References - قسمت 33/35",
+      "order": 910,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part911.md",
+      "title": "References - قسمت 34/35",
+      "order": 911,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part912.md",
+      "title": "References - قسمت 35/35",
+      "order": 912,
+      "html_file": "ref01.xhtml"
+    },
+    {
+      "md_file": "part913.md",
+      "title": "About the Authors - قسمت 1/2",
+      "order": 913,
+      "html_file": "app01.xhtml"
+    },
+    {
+      "md_file": "part914.md",
+      "title": "About the Authors - قسمت 2/2",
+      "order": 914,
+      "html_file": "app01.xhtml"
+    },
+    {
+      "md_file": "part915.md",
+      "title": "Index - قسمت 1/37",
+      "order": 915,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part916.md",
+      "title": "Index - قسمت 2/37",
+      "order": 916,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part917.md",
+      "title": "Index - قسمت 3/37",
+      "order": 917,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part918.md",
+      "title": "Index - قسمت 4/37",
+      "order": 918,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part919.md",
+      "title": "Index - قسمت 5/37",
+      "order": 919,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part920.md",
+      "title": "Index - قسمت 6/37",
+      "order": 920,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part921.md",
+      "title": "Index - قسمت 7/37",
+      "order": 921,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part922.md",
+      "title": "Index - قسمت 8/37",
+      "order": 922,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part923.md",
+      "title": "Index - قسمت 9/37",
+      "order": 923,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part924.md",
+      "title": "Index - قسمت 10/37",
+      "order": 924,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part925.md",
+      "title": "Index - قسمت 11/37",
+      "order": 925,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part926.md",
+      "title": "Index - قسمت 12/37",
+      "order": 926,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part927.md",
+      "title": "Index - قسمت 13/37",
+      "order": 927,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part928.md",
+      "title": "Index - قسمت 14/37",
+      "order": 928,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part929.md",
+      "title": "Index - قسمت 15/37",
+      "order": 929,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part930.md",
+      "title": "Index - قسمت 16/37",
+      "order": 930,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part931.md",
+      "title": "Index - قسمت 17/37",
+      "order": 931,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part932.md",
+      "title": "Index - قسمت 18/37",
+      "order": 932,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part933.md",
+      "title": "Index - قسمت 19/37",
+      "order": 933,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part934.md",
+      "title": "Index - قسمت 20/37",
+      "order": 934,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part935.md",
+      "title": "Index - قسمت 21/37",
+      "order": 935,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part936.md",
+      "title": "Index - قسمت 22/37",
+      "order": 936,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part937.md",
+      "title": "Index - قسمت 23/37",
+      "order": 937,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part938.md",
+      "title": "Index - قسمت 24/37",
+      "order": 938,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part939.md",
+      "title": "Index - قسمت 25/37",
+      "order": 939,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part940.md",
+      "title": "Index - قسمت 26/37",
+      "order": 940,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part941.md",
+      "title": "Index - قسمت 27/37",
+      "order": 941,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part942.md",
+      "title": "Index - قسمت 28/37",
+      "order": 942,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part943.md",
+      "title": "Index - قسمت 29/37",
+      "order": 943,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part944.md",
+      "title": "Index - قسمت 30/37",
+      "order": 944,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part945.md",
+      "title": "Index - قسمت 31/37",
+      "order": 945,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part946.md",
+      "title": "Index - قسمت 32/37",
+      "order": 946,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part947.md",
+      "title": "Index - قسمت 33/37",
+      "order": 947,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part948.md",
+      "title": "Index - قسمت 34/37",
+      "order": 948,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part949.md",
+      "title": "Index - قسمت 35/37",
+      "order": 949,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part950.md",
+      "title": "Index - قسمت 36/37",
+      "order": 950,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part951.md",
+      "title": "Index - قسمت 37/37",
+      "order": 951,
+      "html_file": "index.xhtml"
+    },
+    {
+      "md_file": "part952.md",
+      "title": "Chapter 45 - قسمت 1/3",
+      "order": 952,
+      "html_file": "app02.xhtml"
+    },
+    {
+      "md_file": "part953.md",
+      "title": "Chapter 45 - قسمت 2/3",
+      "order": 953,
+      "html_file": "app02.xhtml"
+    },
+    {
+      "md_file": "part954.md",
+      "title": "Chapter 45 - قسمت 3/3",
+      "order": 954,
+      "html_file": "app02.xhtml"
+    },
+    {
+      "md_file": "part955.md",
+      "title": "Chapter 46",
+      "order": 955,
+      "html_file": "app03.xhtml"
+    },
+    {
+      "md_file": "part956.md",
+      "title": "Chapter 47",
+      "order": 956,
+      "html_file": "app04.xhtml"
+    },
+    {
+      "md_file": "part957.md",
+      "title": "Contents - قسمت 1/22",
+      "order": 957,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part958.md",
+      "title": "Contents - قسمت 2/22",
+      "order": 958,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part959.md",
+      "title": "Contents - قسمت 3/22",
+      "order": 959,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part960.md",
+      "title": "Contents - قسمت 4/22",
+      "order": 960,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part961.md",
+      "title": "Contents - قسمت 5/22",
+      "order": 961,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part962.md",
+      "title": "Contents - قسمت 6/22",
+      "order": 962,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part963.md",
+      "title": "Contents - قسمت 7/22",
+      "order": 963,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part964.md",
+      "title": "Contents - قسمت 8/22",
+      "order": 964,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part965.md",
+      "title": "Contents - قسمت 9/22",
+      "order": 965,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part966.md",
+      "title": "Contents - قسمت 10/22",
+      "order": 966,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part967.md",
+      "title": "Contents - قسمت 11/22",
+      "order": 967,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part968.md",
+      "title": "Contents - قسمت 12/22",
+      "order": 968,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part969.md",
+      "title": "Contents - قسمت 13/22",
+      "order": 969,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part970.md",
+      "title": "Contents - قسمت 14/22",
+      "order": 970,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part971.md",
+      "title": "Contents - قسمت 15/22",
+      "order": 971,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part972.md",
+      "title": "Contents - قسمت 16/22",
+      "order": 972,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part973.md",
+      "title": "Contents - قسمت 17/22",
+      "order": 973,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part974.md",
+      "title": "Contents - قسمت 18/22",
+      "order": 974,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part975.md",
+      "title": "Contents - قسمت 19/22",
+      "order": 975,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part976.md",
+      "title": "Contents - قسمت 20/22",
+      "order": 976,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part977.md",
+      "title": "Contents - قسمت 21/22",
+      "order": 977,
+      "html_file": "nav.xhtml"
+    },
+    {
+      "md_file": "part978.md",
+      "title": "Contents - قسمت 22/22",
+      "order": 978,
+      "html_file": "nav.xhtml"
+    }
+  ]
+}

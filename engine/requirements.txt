@@ -1,0 +1,4 @@
+ebooklib==0.17.1
+beautifulsoup4==4.12.2
+nltk==3.8.1
+argcomplete==3.0.8

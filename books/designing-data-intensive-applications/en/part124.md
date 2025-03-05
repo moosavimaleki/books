@@ -1,0 +1,8 @@
+[![1](assets/1.png)](#co_data_models_and_query_languages_CO4-1) First find the vertex whose name property has the value "United States", and make it the first element of the set
+of vertices in_usa. [![2](assets/2.png)](#co_data_models_and_query_languages_CO4-2) Follow all incoming within edges from vertices in the set in_usa, and add them to the same
+set, until all incoming within edges have been visited. [![3](assets/3.png)](#co_data_models_and_query_languages_CO4-3) Do the same starting with the vertex whose name property has the value "Europe", and build up
+the set of vertices in_europe. [![4](assets/4.png)](#co_data_models_and_query_languages_CO4-4) For each of the vertices in the set in_usa, follow incoming born_in edges to find people
+who were born in some place within the United States. [![5](assets/5.png)](#co_data_models_and_query_languages_CO4-5) Similarly, for each of the vertices in the set in_europe, follow incoming lives_in edges to find people who live in Europe. [![6](assets/6.png)](#co_data_models_and_query_languages_CO4-6) Finally, intersect the set of people born in the USA with the set of people living in Europe, by
+joining them. If the same query can be written in 4 lines in one query language but requires 29 lines in
+another, that just shows that different data models are designed to satisfy different use cases.
+It’s important to pick a data model that is suitable for your application.
